@@ -1,0 +1,4 @@
+cluster.name: "mongo-elasticsearch"
+# network.host: 0.0.0.0
+
+action.destructive_requires_name: true
